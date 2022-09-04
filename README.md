@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @luugiangnamvn
 - 👀 I’m interested in Math and Computer Science
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently studying Data Science
