@@ -2,8 +2,9 @@
 
 **Lecturer • Data Science Researcher** 
 
-Mathematics and Computer Science Department
-University of Science, Vietnam National University, Ho Chi Minh city.
+Mathematics and Computer Science Department  
+University of Science, Vietnam National University, Ho Chi Minh city
+
 
 Faculty of Information Technology  
 Industrial University of Ho Chi Minh City (IUH)
