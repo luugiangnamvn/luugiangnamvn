@@ -36,7 +36,7 @@ I am currently a lecturer at University of Science VNU-HCM and IUH with a strong
 
 - 🌐 [ResearchGate](https://www.researchgate.net/profile/Luu-Giang-Nam)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/luugiangnam)  
-- ✉️ Email: `luugiangnam.math@gmail.com`, 'lgnam@hcmus.edu.vn', 'luugiangnam@iuh.edu.vn'
+- ✉️ Email: `luugiangnam.math@gmail.com`, `lgnam@hcmus.edu.vn`, `luugiangnam@iuh.edu.vn`
 
 ---
 
